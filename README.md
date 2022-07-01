@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpslakshan&label=Profile%20views&color=0e75b6&style=flat" alt="gpslakshan" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, Redux**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Flutter, Android, Java, Machine Learning, SQL**
 
