@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Lakshan</h1>
 <h3 align="center">I'm a passionate software engineering undergraduate student at the University of Westminster.</h3>
 
+- 👨‍💻 All of my projects are available at [nextjs-portfolio-gpslakshan.vercel.app](nextjs-portfolio-gpslakshan.vercel.app)
+
 - 📝 I regularly write articles on [https://medium.com/@gpslakshan](https://medium.com/@gpslakshan)
 
-- 📫 How to reach me **gpslakshan@gmail.com**
+- 📫 How to reach me **sachinlakshan04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
