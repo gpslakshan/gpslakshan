@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Lakshan</h1>
-<h3 align="center">I'm a passionate software engineering undergraduate student at the University of Westminster.</h3>
+<h3 align="center">Full-Stack Software Engineer | Transforming Ideas into Scalable Solutions</h3>
 
 - 👨‍💻 All of my projects are available at [https://gpslakshan.vercel.app/](https://gpslakshan.vercel.app/)
 
