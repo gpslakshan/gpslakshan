@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Lakshan</h1>
 <h3 align="center">Full-Stack Software Engineer | Transforming Ideas into Scalable Solutions</h3>
 
-- 👨‍💻 All of my projects are available at [https://gpslakshan.vercel.app/](https://gpslakshan.vercel.app/)
+<!--- - 👨‍💻 All of my projects are available at [https://gpslakshan.vercel.app/](https://gpslakshan.vercel.app/) -->
 
 - 📝 I regularly write articles on [https://medium.com/@gpslakshan](https://medium.com/@gpslakshan)
 
